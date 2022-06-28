@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '309168792828',
     projectId: 'hamna-a9709',
     storageBucket: 'hamna-a9709.appspot.com',
-    iosClientId: '309168792828-43nua9s6l8rulqqq0f6ae4c3raoc7bem.apps.googleusercontent.com',
+    iosClientId:
+        '309168792828-43nua9s6l8rulqqq0f6ae4c3raoc7bem.apps.googleusercontent.com',
     iosBundleId: 'com.example.hamna',
   );
 }
