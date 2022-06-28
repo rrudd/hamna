@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "309168792828",
+    "project_id": "hamna-a9709",
+    "storage_bucket": "hamna-a9709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309168792828:android:7e5f1eacf43a60bbc56379",
+        "android_client_info": {
+          "package_name": "com.example.hamna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309168792828-ec8n780tlp8j4f7duipvohl1139obku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYLeQ6be71PJXQ_uMRB_Yb-Usog_CYLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309168792828-ec8n780tlp8j4f7duipvohl1139obku1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309168792828-43nua9s6l8rulqqq0f6ae4c3raoc7bem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hamna"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
